@@ -1,1 +1,1 @@
-Tip: always take a backup before a deploy.
+Verify application health checks before declaring a deployment successful.

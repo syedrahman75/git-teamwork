@@ -1,0 +1,1 @@
+Verify application health checks before declaring a deployment successful.
